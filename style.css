@@ -147,7 +147,7 @@ header {
     flex-direction: column;
     gap: 25px;
     align-items: center;
-    color: #85929e;
+    color:#6c747a ;
     font: italic 400 13px "Open Sans", sans-serif;
     & img {
         width: 100%;
@@ -170,7 +170,7 @@ header {
     flex-direction: column;
     gap: 25px;
     align-items: center;
-    color: #85929e;
+    color: #6c747a;
     font: italic 400 13px "Open Sans", sans-serif;
     & img {
         width: 100%;
@@ -192,7 +192,7 @@ header {
     flex-direction: column;
     gap: 25px;
     align-items: center;
-    color: #85929e;
+    color: #6c747a;
     font: italic 400 13px "Open Sans", sans-serif;
     & img {
         width: 100%;
@@ -214,7 +214,7 @@ header {
     flex-direction: column;
     gap: 25px;
     align-items: center;
-    color: #85929e;
+    color: #6c747a;
     font: italic 400 13px "Open Sans", sans-serif;
     & img {
         width: 100%;
@@ -236,7 +236,7 @@ header {
     flex-direction: column;
     gap: 25px;
     align-items: center;
-    color: #85929e;
+    color: #6c747a;
     font: italic 400 13px "Open Sans", sans-serif;
     & img {
         width: 100%;
@@ -258,7 +258,7 @@ header {
     flex-direction: column;
     gap: 25px;
     align-items: center;
-    color: #888;
+    color: #6c747a;
     font: italic 400 13px "Open Sans", sans-serif;
     & img {
         width: 100%;
@@ -280,7 +280,7 @@ header {
     flex-direction: column;
     gap: 25px;
     align-items: center;
-    color: #888;
+    color:#6c747a ;
     font: italic 400 13px "Open Sans", sans-serif;
     & img {
         width: 100%;
@@ -302,7 +302,7 @@ header {
     flex-direction: column;
     gap: 25px;
     align-items: center;
-    color: #888;
+    color: #6c747a;
     font: italic 400 13px "Open Sans", sans-serif;
     & img {
         width: 100%;
